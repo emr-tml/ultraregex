@@ -1,2 +1,2 @@
 # ultraregex
-Ultra Ad-blocking Regex List for Pi-Hole/AdGuard Home
+Ultra Ad-blocking + Privacy Regex List for Pi-Hole/AdGuard Home
